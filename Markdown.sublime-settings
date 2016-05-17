@@ -1,0 +1,15 @@
+{
+	"highlight_line": false,
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+	"line_numbers": true,
+	"draw_centered": false,
+	"wrap_width": 95,
+	"translate_tabs_to_spaces": false,
+
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+
+	"mde.keep_centered": true,
+}

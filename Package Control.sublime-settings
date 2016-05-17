@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Emmet",
+		"Git",
+		"GitHub Markdown Snippets",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Predawn",
+		"RailsCasts Colour Scheme",
+		"Railscasts Extended",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Wombat Color Scheme",
+		"Wombatish color scheme"
+	]
+}
